@@ -8,7 +8,7 @@ public class JcwebApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JcwebApplication.class, args);
-        System.out.println("启动11");
+        System.out.println("启动12");
     }
 
 }
